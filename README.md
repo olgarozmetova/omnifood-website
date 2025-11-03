@@ -1,6 +1,6 @@
 # Omnifood
 
-Single page website built as a final project for Udemy course "Build Responsive Real-World Website with HTML & CSS" by Jonas Schmedtmann. Omnifood is a fictional company focused on providing AI-based meals through a subscription service.
+Single page website built with HTML, CSS & JS . Omnifood is a fictional company focused on providing AI-based meals through a subscription service.
 
 ## Features
 
